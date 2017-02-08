@@ -10,6 +10,7 @@ public class TestTenuringThreshold {
         byte[] allo2;
         byte[] allo3;
         allo1 = new byte[1024*102];
+     
         allo2 = new byte[1024*102*4];
         allo3 = new byte[4*1024*102];
         System.out.println("Hello");
