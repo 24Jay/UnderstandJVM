@@ -1,4 +1,4 @@
-package class_loading;
+package classloading;
 
 public class NotInitialzation
 {
@@ -9,7 +9,7 @@ public class NotInitialzation
 }
 
 /****
- *
+ * 
  *
  javap -verbose NotInitialzation.class 
 Classfile /home/jay/workspace/UnderstandJVM/bin/class_loading/NotInitialzation.class
