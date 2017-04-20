@@ -1,4 +1,4 @@
-package classloading;
+package part7_classloader;
 
 public class ConstClass
 {

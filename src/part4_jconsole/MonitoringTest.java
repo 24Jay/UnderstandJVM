@@ -1,4 +1,4 @@
-package jconsole;
+package part4_jconsole;
 
 import java.util.ArrayList;
 import java.util.List;

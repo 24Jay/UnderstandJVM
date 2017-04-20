@@ -1,4 +1,4 @@
-package classloading;
+package part7_classloader;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -40,6 +40,6 @@ public class ClassLoaderTest
 		Object obj = loader.loadClass("classloading.ClassLoaderTest").newInstance();
 
 		System.out.print(obj.getClass());
-		System.out.println(obj instanceof classloading.ClassLoaderTest);
+		System.out.println(obj instanceof part7_classloader.ClassLoaderTest);
 	}
 }

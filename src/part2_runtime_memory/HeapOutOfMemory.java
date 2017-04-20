@@ -1,11 +1,15 @@
+package part2_runtime_memory;
 
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Administrator on 2016/11/15.
+/***
+ * -Xms10m
+ * -Xmx10m
+ * @author jay
+ *
  */
-public class HeapOverflowTest
+public class HeapOutOfMemory
 {
 	static class OOMObject
 	{

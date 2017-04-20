@@ -1,4 +1,4 @@
-package bytecode;
+package part6_bytecode;
 
 public class TestContantPool
 {
